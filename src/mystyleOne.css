@@ -7,7 +7,7 @@
 
 /* applies to the body of the webpage*/
 body{
-    background-color: aquamarine;
+    background-color: rgb(249, 251, 250);
 }
 
 /* applies to the headings of the webpage*/
@@ -16,4 +16,11 @@ h1{
 }
 nav{
    border: 0ch; 
+}
+.navi{
+    background-color: rgb(252, 252, 252);
+  color: white;
+  border: 2px solid black;
+  margin: 5%;
+  padding: 10%;
 }
